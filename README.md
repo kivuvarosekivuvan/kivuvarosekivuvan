@@ -1,8 +1,8 @@
 ### <div align="center">👋 Hello, I'm Rose Kivuva, a Software Developer</div>
 
 ## Github Stats 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kivuvarosekivuvan&show_icons=true&theme=radical https://github.com/kivuvarosekivuvan)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kivuvarosekivuvan&theme=radical https://github.com/kivuvarosekivuvan)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kivuvarosekivuvan&show_icons=true&theme=radical)]( https://github.com/kivuvarosekivuvan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kivuvarosekivuvan&theme=radical )](https://github.com/kivuvarosekivuvan)
 
 
 <br/>  
