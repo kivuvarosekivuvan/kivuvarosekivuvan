@@ -2,8 +2,9 @@
 
 ## Github Stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kivuvarosekivuvan&show_icons=true&theme=radical)](https://github.com/kivuvarosekivuvan)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kivuvarosekivuvan&size_weight=0.5&count_weight=0.5 (icons=true&theme=radical))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kivuvarosekivuvan&langs_count=8)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kivuvarosekivuvan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 <br/>  
 
