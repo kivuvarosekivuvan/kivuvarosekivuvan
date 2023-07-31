@@ -2,7 +2,7 @@
 
 ## Github Stats 
 [![Rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=kivuvarosekivuvan&show_icons=true&theme=radical)]( https://github.com/kivuvarosekivuvan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kivuvarosekivuvan&theme=radical )]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kivuvarosekivuvan&theme=radical)](https://github.com/kivuvarosekivuvan)
 
 
 <br/>  
