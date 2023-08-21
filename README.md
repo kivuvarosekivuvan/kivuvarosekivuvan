@@ -74,7 +74,6 @@ git push -u origin main
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 ## My profiles  
 <!-- BLOG-POST-LIST:START -->  
