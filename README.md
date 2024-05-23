@@ -7,11 +7,11 @@
 <br/>  
 
 <br/>  
-- 🌱 I’m currently learning Software Development.  
+ 🌱 I’m currently a Software Developer
   
 - ❓ Ask me about anything related to Python, JavaScript, Kotlin, and related technologies.  
   
-- ⚡ Fun fact: I always enjoy watching documentaries over and over again without getting tired.
+- ⚡ Fun fact: I always enjoy cleaning over and over again without getting tired.
 
 <br/>  
 
