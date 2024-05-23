@@ -7,7 +7,6 @@
 <br/>  
 
 <br/>  
-git push -u origin main
 - 🌱 I’m currently learning Software Development.  
   
 - ❓ Ask me about anything related to Python, JavaScript, Kotlin, and related technologies.  
